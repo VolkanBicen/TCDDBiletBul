@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NWX9s4ZkEm3SyKXtjB1ogyEgHsOZVApobsGh6rq13NM35Ic9WKpbHWPWOo8I/Uj1UOsjAWGoca1h3Fjk89uB5A==",
+  "success": true,
+  "projectFilePath": "D:\\Test-Deneme\\TelegramBotV2\\TcddBiletBot\\TcddBiletBot\\TcddBiletBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volkan.bicen\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\volkan.bicen\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
+    "C:\\Users\\volkan.bicen\\.nuget\\packages\\selenium.webdriver.chromedriver\\102.0.5005.6102\\selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512",
+    "C:\\Users\\volkan.bicen\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\volkan.bicen\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\volkan.bicen\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
