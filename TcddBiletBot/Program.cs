@@ -33,7 +33,7 @@ namespace TcddBiletBot
             Timer timer = new Timer(Helper.TimerTask.SearchTicket, null, 0, 300000);
            
             Console.WriteLine("Bot Başladı." + Environment.NewLine + "Durdurmak İçin Bir Tuşa Bas");
-            var line = Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
