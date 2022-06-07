@@ -15,7 +15,7 @@ namespace TcddBiletBot
             var bot = new HandleBot ();
 
             CancellationTokenSource cts = new CancellationTokenSource();
-            var botClient = new TelegramBotClient("5194916816:AAHFHM-qULbrsZvsAokjgkbKVwgLgiQ8rhM");
+            var botClient = new TelegramBotClient("*********");
 
             var receiverOptions = new ReceiverOptions
             {
